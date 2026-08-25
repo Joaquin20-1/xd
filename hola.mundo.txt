@@ -1,0 +1,2 @@
+proceso : colejio : matricula ,nota, proceso de ventas , proceso de alamacen stok , proceso de gestión de proveedores : comprar productos guardar en el almacen
+requisitos : para q van hacer esa base de datos
